@@ -12,6 +12,15 @@ Adding a Global Label (Exersise 1 in Lesson 4)
 
 
 ### Wolfhound
+Wikipedia Entry 
+[Adding wikipedia article for Jackie Robinson](wiki:Jackie_Robinson)
+DOI 
+[Someone who cited Duckles(2014)](doi:10.1080/10632921.2017.1398116) 
+
+GitHubObject 
+[GITHUUUUUBBBBB](https://github.com/bduckles/EverydayPermaculture)
+
+
 ### Labradoodle 
 
 ## Cats
