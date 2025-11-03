@@ -5,6 +5,12 @@
 ## Dogs 
 
 ### Bearded Collie 
+
+Adding a Global Label (Exersise 1 in Lesson 4) 
+[A fantastic Equation](eq_newton)
+
+
+
 ### Wolfhound
 ### Labradoodle 
 
