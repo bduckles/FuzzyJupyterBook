@@ -2,7 +2,13 @@
 
 # Animals 
 
+(animalsrock)=
+Animals are fabulous and we should spend our time thinking about their importance in our life. 
+
 ## Dogs 
+
+[Animal Are Awesome](xref:animalsrock)
+
 
 ### Bearded Collie 
 
